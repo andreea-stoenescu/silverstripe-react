@@ -14,6 +14,12 @@
         "sminnee/phpunit-mock-objects": "^3.4.5"
     },
     "extra": {
+        "expose": [
+            "css",
+            "images",
+            "javascript",
+            "webfonts"
+        ],
         "resources-dir": "_resources",
         "project-files-installed": [
             "app/.htaccess",
