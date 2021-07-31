@@ -6,7 +6,6 @@
         "php": "^7.1 || ^8",
         "silverstripe/recipe-plugin": "^1.2",
         "silverstripe/recipe-cms": "4.8.0@stable",
-        "silverstripe-themes/simple": "~3.2.0",
         "silverstripe/login-forms": "4.4.1@stable"
     },
     "require-dev": {
@@ -15,10 +14,10 @@
     },
     "extra": {
         "expose": [
-            "css",
-            "images",
-            "javascript",
-            "webfonts"
+            "themes/simple/css",
+            "themes/simple/images",
+            "themes/simple/javascript",
+            "themes/simple/webfonts"
         ],
         "resources-dir": "_resources",
         "project-files-installed": [
