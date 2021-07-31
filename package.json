@@ -1,0 +1,26 @@
+{
+  "name": "silverstripe-react",
+  "version": "1.0.0",
+  "description": "[![Build Status](https://api.travis-ci.com/silverstripe/silverstripe-installer.svg?branch=4)](https://travis-ci.com/silverstripe/silverstripe-installer)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreea-stoenescu/silverstripe-react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreea-stoenescu/silverstripe-react/issues"
+  },
+  "homepage": "https://github.com/andreea-stoenescu/silverstripe-react#readme",
+  "devDependencies": {
+    "@babel/core": "^7.14.8",
+    "@babel/polyfill": "^7.12.1",
+    "babel-loader": "^8.2.2",
+    "webpack": "^5.47.1",
+    "webpack-cli": "^4.7.2"
+  }
+}
